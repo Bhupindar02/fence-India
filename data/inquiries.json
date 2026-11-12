@@ -1,0 +1,21 @@
+[
+  {
+    "id": "FC-IN-2026-87204",
+    "createdAt": "2026-11-12T09:33:47.802Z",
+    "fullName": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "phone": "98765 43210",
+    "zipCode": "560001",
+    "preferredContactMethod": "Phone Call",
+    "propertyType": "Independent Villa / Bungalow / Kothi",
+    "fenceType": "Wood Privacy (Teak / Treated Hardwood)",
+    "fenceLength": "175",
+    "fenceHeight": "6 Feet (Standard Residential Privacy)",
+    "gatesCount": "1 Single Pedestrian Walk Gate (4 ft)",
+    "timeline": "Immediately (1–2 Weeks)",
+    "description": "Villa perimeter boundary. Looking for clean aluminum with automated gate.",
+    "fileAttachment": null,
+    "clientIp": "::1",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36"
+  }
+]
