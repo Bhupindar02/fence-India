@@ -38,10 +38,10 @@ export default function Home() {
         className="relative w-full bg-[#000000]"
       >
         <FrameScrubber
-          totalFrames={239}
-          framePathPrefix="https://res.cloudinary.com/qk5wy6np/image/upload/f_auto,q_90/frame_"
-          frameExtension=".jpg"
-          padDigits={4}
+          totalFrames={238}
+          framePathPrefix="https://res.cloudinary.com/qk5wy6np/image/upload/fence_hero"
+          frameExtension=".webp"
+          padDigits={0}
           scrollDistance={4000}
           scrubDuration={0.5}
           mobileVideoSrc="https://res.cloudinary.com/qk5wy6np/video/upload/v1794407836/video1.mp4"

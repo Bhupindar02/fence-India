@@ -27,10 +27,10 @@ export const CLOUD = "https://res.cloudinary.com/qk5wy6np/image/upload/f_auto,q_
  */
 export function initCanvasScrub({
   canvas,
-  totalFrames = 239,
-  prefix = `${CLOUD}/frame_`,
-  extension = ".jpg",
-  padDigits = 4,
+  totalFrames = 238,
+  prefix = `${CLOUD}/fence_hero`,
+  extension = ".webp",
+  padDigits = 0,
   onFirstFrameReady,
   onProgress,
 }) {

@@ -38,7 +38,7 @@ async function verifyCDNAnimation() {
   page.on("response", (res) => {
     const url = res.url();
     if (url.includes("res.cloudinary.com")) {
-      if (url.includes("frame_")) {
+      if (url.includes("frame_") || url.includes("fence_hero")) {
         cdnHeroRequests.push({ url, status: res.status() });
       } else if (url.includes("fencing-frame")) {
         cdnShowcaseRequests.push({ url, status: res.status() });
